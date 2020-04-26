@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Learn from James](lean-from-james/README.md)
+* [Learn from Jim](lean-from-james/README.md)
   * [尊重事实](lean-from-james/zun-zhong-shi-shi.md)
 * [前言](qian-yan/README.md)
   * [Some child page](https://github.com/TonySunqz/Project-Management-Diary/tree/0dbcb92442aad2529b5e0a5fef920ebc9c036dd8/page1/page1-1.md)
