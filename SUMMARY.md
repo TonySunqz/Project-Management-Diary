@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Just Another Practitioner in Software Industry](README.md)
-* [Summary](summary.md)
+* [前言](README.md)
+* [目录](summary.md)
 
