@@ -1,7 +1,10 @@
-# Just Another Practitioner in Software Industry 
+---
+description: 关于“学习、变革、判断和远见”的历程
+---
 
-> If I have seen farther than others, it is by standing on the soulders of giants.
--- Issaac Newton
+# Just Another Practitioner in Software Industry
+
+> If I have seen farther than others, it is by standing on the soulders of giants. -- Issaac Newton
 
 在软件开发中，即便是简单的Hello World也深刻的体现着这个事实。现在，在任何软件的开发，从儿童编程作业到生命攸关的产品软件，都是建立前人的成果之上。开源的思想和社区极大的推动了软件开发的进程，不仅减低了成本，更重要的是促进了软件设计方法、思想和实践的推广。
 
@@ -9,8 +12,9 @@
 
 心血来潮，决定要将我的历程进行整理和共享，也算是一种开源的精神，希望能帮助到正在跟我刚毕业时一样沉迷于语法的学生，到参加工作不久的程序猿，亚历山大的项目经理，到正在寻求组织改变，建立学习型，高效合作和创新的组织负责人。
 
-## “If this is my calling, then doors will open". DRAFT
+## “If this is my calling, then doors will open". 
 
 兴趣和就业压力的使然，让我一个材料科学的学生，在大一后不久，越来越清楚的感觉自己要从事软件方面的工作。我要感谢我的母校在我大二的时候推出辅修专业，是老师们的创新，给我类似的学生打开了计算机学习的方便之门。现在想来非常的感激那时的老师，因为大部分的课程要不在周末，就是在晚上，以便不影响老师对计算机专业的授课。当自己结婚和有小孩之后，才能体会到这是多么大的付出，。原因是。也让给我感觉到
 
 自己在软件开发行业对自己从参加工作以来软件项目管理，软件团队管理的实践和思考、案例和探索
+
