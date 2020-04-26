@@ -2,7 +2,7 @@
 description: 'Just Another Practitioner in the Software Industry: 关于“学习、变革、判断和远见”的探索和实践'
 ---
 
-# Introduction
+# 前言
 
 > If I have seen farther than others, it is by standing on the soulders of giants. -- Issaac Newton
 
