@@ -35,6 +35,6 @@ description: 'Just Another Practitioner in the Software Industry: 关于“学�
 
 凡事没有绝对，有各种可能，还要请大家根据自己的情况（企业文化、团队氛围，具体问题）来甄别：
 
-* ”There is not a silver bullet can sove all problems"
-* “One man's meat may be another mans' poison"
+* ”There is not a silver bullet can sove all problems."
+* “One man's meat may be another man's poison."
 
